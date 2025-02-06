@@ -15,5 +15,5 @@ kitty = Cat('Sophie')
 class Cat:
     def __inist__(self, name):
         self.name = name
-        print(f"Hello, {self.name}!")
+        print(f"Hello, my name is {self.name}!")
 ```
